@@ -1,0 +1,26 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "Post Title One",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam iure repellat odio dolore delectus ratione sed hic. Natus, necessitatibus exercitationem harum doloremque officiis reprehenderit et neque at sunt ex! Aliquid?",
+            "tags" : [
+                "web_dev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Post Title Two",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam iure repellat odio dolore delectus ratione sed hic. Natus, necessitatibus exercitationem harum doloremque officiis reprehenderit et neque at sunt ex! Aliquid?",
+            "tags":["web_design", "coding","news"]
+        },
+        {
+            "id": 3,
+            "name": "Post Title Three",
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam iure repellat odio dolore delectus ratione sed hic. Natus, necessitatibus exercitationem harum doloremque officiis reprehenderit et neque at sunt ex! Aliquid?",
+            "tags": ["html","css","vue"]
+        }
+    ]
+}
